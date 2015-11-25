@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geeky.Web", "Geeky.Web\Geeky.Web.csproj", "{DECA2816-7C39-487B-B57F-7C705912D91D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geeky.Web.Tests", "Geeky.Web.Tests\Geeky.Web.Tests.csproj", "{E16EE6AA-E5AF-4281-A1C1-2728373A6D42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DECA2816-7C39-487B-B57F-7C705912D91D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DECA2816-7C39-487B-B57F-7C705912D91D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DECA2816-7C39-487B-B57F-7C705912D91D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DECA2816-7C39-487B-B57F-7C705912D91D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E16EE6AA-E5AF-4281-A1C1-2728373A6D42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E16EE6AA-E5AF-4281-A1C1-2728373A6D42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E16EE6AA-E5AF-4281-A1C1-2728373A6D42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E16EE6AA-E5AF-4281-A1C1-2728373A6D42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
